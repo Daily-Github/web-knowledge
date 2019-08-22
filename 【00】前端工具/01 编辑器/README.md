@@ -1,17 +1,11 @@
-## 前言
+## 1、[WebStorm的使用](https://www.jianshu.com/p/4ce97b360c13)
 
-后端程序员们常常会争论“什么是最好的语言”，而对于前端来说，我们没有选择，无论爱与恨，我们只能选择 JavaScript 。所以前端日常的争论就变成了“什么是最好的框架”以及“什么是最好的编辑器” 。
+## 2、[VS Code的使用](https://www.jianshu.com/p/1a6914bcbad1)
 
-所谓工欲善其事，必先利其器。对于前端来说，编辑器是除了chrome浏览器以外，每天打开时间最长的软件。选择一款功能强大又趁手的工具，可以让开发效率提升，达到事半功倍的效果。
+## 3、[Atom的使用](https://www.cnblogs.com/jadeboy/p/5255162.html)
 
-这五款编辑器分别是：
+## 4、[SublimeText3的使用](https://www.cnblogs.com/wind128/p/4409422.html)
 
-ATOM：来自github的编辑器，基于electron开发，CoffeeScript 实现。
+## 5、[HBuilder的使用](https://www.cnblogs.com/wj-1314/p/9368995.html)
 
-Brackets：来自adobe的编辑器，继承了adobe的优秀传统，自带即时预览和众多好用的插件。
-
-Hbuilder ：国产优秀IDE，基于eclipse，完备的代码提示，并且可以轻松生成hybrid应用。
-
-SublimeText3：非常多前端使用的编辑器，轻量级，快速启动，丰富的插件。
-
-VS Code： 来自微软的编辑器，被称作“披着编辑器外衣的IDE
+## 6、[Brackets的使用](https://blog.csdn.net/melon19931226/article/details/68066971/)
