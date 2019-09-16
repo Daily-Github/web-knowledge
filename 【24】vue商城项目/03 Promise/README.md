@@ -1,15 +1,9 @@
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# 01Promise-关于Promise要解决回调
+# 02Promise-基本概念的介绍【重要】_0
+# 03Promise-形式上的和具体的Promise异步
+# 04Promise-Promise实例只要被创建就
+# 05Promise-通过.then指定成功和失败的回
+# 06Promise-分析Promise的执行步骤
+# 07Promise-打开Promise的正确使用方式
+# 08Promise-捕获异常的两种方式
+# 09Promise-Jquery中Ajax使用Promise
