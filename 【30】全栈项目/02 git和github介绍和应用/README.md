@@ -1,15 +1,24 @@
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# 01git简介
+# 02git交互流程
+# 03git的安装和配置
+# 04git基本使用
+# 05总结git基本使用交互流程
+# 06工作区-暂存区-本地仓库
+# 07github介绍和创建github账户
+# 08git结合github交互协作
+# 09关于remote远程仓库提交
+# 10git基本命令 bash操作命令
+# 11vi编辑器介绍
+# 12git增加和删除文件
+# 13git提交
+# 14git回滚和撤销
+# 15git分支基本操作
+# 16回顾分支的基本操作
+# 17Git-Flow分支工作流管理策略
+# 18总结Git-Flow
+# 19关于Git提交作者和邮箱的作用
+# 20Github多人协作-Collaborator
+# 21Pull-Request
+# 22Gitlab介绍
+# 23Github-Pages结合Hexo搭建
+# 24修改Hexo博客主题

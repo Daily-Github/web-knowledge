@@ -1,15 +1,18 @@
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
-# 
+# 1组件生命周期-创建阶段的生命周
+# 2组件生命周期-生命周期图详解
+# 3组件生命周期-分别总结各阶段每
+# 4使用defaultProps设置组件的默
+# 5使用prop-types进行props属
+# 6介绍componentWillMount函数
+# 7组件创建阶段的render函数和c
+# 8使用原生的JS事件绑定机制实
+# 9使用React提供的事件绑定机制
+# 10实现Counter是计数器偶数更新
+# 11学习componentWillUpdate和r
+# 12hQttPIEBkx-2
+# 13介绍componentWillReceivePr
+# 14React中绑定this并传参的前两种
+# 15绑定this并传参的第三种方式
+# 16React中把页面上的数据通过on
+# 17评论列表案例
+# 18扩展：父组件使用Context特性
